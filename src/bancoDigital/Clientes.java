@@ -2,7 +2,7 @@ package bancoDigital;
 
 public class Clientes {
 	
-	public String nome;
+	private String nome;
 
 	public String getNome() {
 		return nome;
